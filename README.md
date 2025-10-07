@@ -38,6 +38,8 @@ I am passionate about building **scalable web applications** and exploring **AI-
 - 🧠 **AI Mental Health Chatbot** – NLP-powered chatbot for supportive conversations  
 
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deekshith15kumar&layout=compact&show_icons=true&theme=default)
+
 
 ## 🌐 Connect with Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/deekshith-kumar-17302b21a/)  
