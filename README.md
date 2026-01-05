@@ -1,6 +1,6 @@
 # Hi 👋, I'm Deekshith  
 
-🚀 **Computer Science Student | Full Stack Developer | AI Enthusiast**  
+🚀 **Computer Science Student |Data Analyst | AI Enthusiast**  
 
 I am passionate about building **scalable web applications** and exploring **AI-powered solutions**. Currently, I am pursuing my **Full Stack Web Development Internship at ArithMatrix Technologies**, where I am gaining hands-on experience in **real-time applications, secure authentication, and database-driven systems**.  
 
